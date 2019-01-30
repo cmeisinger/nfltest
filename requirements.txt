@@ -3,4 +3,4 @@ httplib2==0.9.2
 nflgame==1.2.19
 pep8==1.7.0
 pytz==2016.6.1
-requests==2.11.1
+requests==2.20.0
